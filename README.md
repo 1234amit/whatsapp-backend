@@ -26,48 +26,6 @@ This project uses **Express.js, Socket.IO, and whatsapp-web.js** to automate Wha
 * **nodemon**
 
 ---
-📁 Project Structure
-
-whatsapp-backend
-│
-├── .wwebjs_auth            
-├── .wwebjs_cache          
-├── node_modules
-│
-├── src
-│   │
-│   ├── config             
-│   │
-│   ├── controllers       
-│   │   └── messageController.js
-│   │
-│   ├── middlewares        
-│   │   ├── rateLimiter.js
-│   │   └── requestValidator.js
-│   │
-│   ├── routes              
-│   │   └── messageRoutes.js
-│   │
-│   ├── services          
-│   │   ├── whatsappService.js
-│   │   └── queueService.js
-│   │
-│   ├── sockets       
-│   │   └── qrSocket.js
-│   │
-│   ├── utils             
-│   │   ├── errorHandler.js
-│   │   ├── logger.js
-│   │   └── sessionManager.js
-│   │
-│   └── index.js         
-│
-├── .env                    
-├── .gitignore
-├── package.json
-└── README.md
-
----
 
 ## ⚙️ Installation
 
