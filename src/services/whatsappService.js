@@ -12,7 +12,7 @@ function initWhatsApp(io) {
       clientId: "whatsapp-session"
     }),
     puppeteer: {
-      headless: true,
+      headless: false,
       args: ["--no-sandbox"]
     }
   });
