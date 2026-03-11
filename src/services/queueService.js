@@ -1,4 +1,3 @@
-// src/services/queueService.js
 const Queue = require('bull');
 const { sendMessage } = require('./whatsappService');
 
