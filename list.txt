@@ -1,0 +1,23 @@
+
+
+github link: https://github.com/1234amit/whatsapp-backend
+
+video link: https://drive.google.com/file/d/1nBgJkDfecK5zEknGiIoCgzWbKslQ1-G8/view?usp=sharing
+
+https://drive.google.com/file/d/1nBgJkDfecK5zEknGiIoCgzWbKslQ1-G8/view?usp=drive_link
+
+
+https://drive.google.com/file/d/1nBgJkDfecK5zEknGiIoCgzWbKslQ1-G8/view?usp=sharing
+https://drive.google.com/file/d/1nBgJkDfecK5zEknGiIoCgzWbKslQ1-G8/view?usp=sharing
+
+
+
+I used Express.js as the Node.js framework for this project.
+Express.js was chosen because it is a lightweight and flexible framework for building RESTful APIs.
+It allows a clean and modular architecture using routes, controllers, and services.
+This structure makes the application easier to maintain and scale in the future.
+Express also performs well because it works with Node.js’s asynchronous event-driven model.
+This helps the server handle multiple requests efficiently.
+Additionally, Express has a large ecosystem of middleware and strong community support.
+That made development faster and easier for integrating WhatsApp Web and Socket.IO.
+Overall, Express.js was the best choice for building a scalable backend API for this project.
